@@ -45,9 +45,9 @@
 
   <img alt="Illustrator" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
           
-  <img alt="Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-  
   <img alt="Muse" height="40" width="40" src="Muse.png">
+  
+  <img alt="Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
   <img alt="Animate" height="40" width="40" src="Animate.png">
 
