@@ -69,4 +69,6 @@
   
   <a href="mailto:chsf2@aluno.ifal.edu.br?subject=Hello%2C%20i'm%20from%20GitHub!&body=I'm..." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+  ![Snake animation](https://github.com/CayoHenrique250/CayoHenrique250/blob/output/github-contribution-grid-snake.svg)
+
 </div>
