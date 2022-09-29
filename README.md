@@ -47,7 +47,7 @@
           
   <img alt="Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
-  <img alt="Animate" height="40" width="50" src="animate.png">
+  <img alt="Animate" height="40" width="40" src="Animate.png">
 
     
   
