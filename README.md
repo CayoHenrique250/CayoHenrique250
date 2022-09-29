@@ -43,7 +43,7 @@
   
   <!--devicons-->
 
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="img/hacker.gif">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="hacking.gif">
 
 </div>
 
