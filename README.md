@@ -2,7 +2,7 @@
 
 ### <h3>Be Welcome!</h3>
 
-  <p><b>• 👶🏼 Brasilian;</b></p>
+  <p><b>• 👶🏼 Brazilian;</b></p>
   <p><b>• 🎒 I am a student at the Federal Institute of Alagoas - IFAL;</b></p>
   <p><b>• 👨‍💻 I appreciate and study programming languages, markup and stylization;</b></p>
   <p><b>• 👨‍🎓 I studied informatics focused on creating websites and graphic design, all focused on the business sector and digital marketing - Microcamp;</b></p>
