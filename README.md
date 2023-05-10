@@ -6,7 +6,7 @@
   <p><b>• 🎒 I am a student at the Federal Institute of Alagoas - IFAL;</b></p>
   <p><b>• 👨‍💻 I appreciate and study programming languages, markup and stylization;</b></p>
   <p><b>• 👨‍🎓 I studied informatics focused on creating websites and graphic design, all focused on the business sector and digital marketing;</b></p>
-  <p><b>• 🌱 I’m currently learning JavaScript, flutter e dart.</b></p>
+  <p><b>• 🌱 I’m currently learning JavaScript, flutter and dart.</b></p>
 
 <div align="center">
   
