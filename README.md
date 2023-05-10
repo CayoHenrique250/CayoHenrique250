@@ -5,8 +5,8 @@
   <p><b>• 👶🏼 Brazilian;</b></p>
   <p><b>• 🎒 I am a student at the Federal Institute of Alagoas - IFAL;</b></p>
   <p><b>• 👨‍💻 I appreciate and study programming languages, markup and stylization;</b></p>
-  <p><b>• 👨‍🎓 I studied informatics focused on creating websites and graphic design, all focused on the business sector and digital marketing - Microcamp;</b></p>
-  <p><b>• 🌱 I’m currently learning JavaScript.</b></p>
+  <p><b>• 👨‍🎓 I studied informatics focused on creating websites and graphic design, all focused on the business sector and digital marketing;</b></p>
+  <p><b>• 🌱 I’m currently learning JavaScript, flutter e dart.</b></p>
 
 <div align="center">
   
@@ -53,6 +53,10 @@
   <img alt="Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
 
   <img alt="Animate" height="40" width="40" src="Animate.png">
+  
+  <img alt="Flutter" height="40" width="40" src="https://www.svgrepo.com/show/353751/flutter.svg">
+  
+  <img alt="Dart" height="40" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/dart-programming-language-icon.png">
 
   <img alt="Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
     
