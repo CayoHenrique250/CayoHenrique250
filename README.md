@@ -1,86 +1,63 @@
-### <h1>Hello, my name is Cayo!</h1>
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hello%2C%20I'm%20Cayo!%20👋&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-### <h3>Be Welcome!</h3>
+---
 
-  <p><b>• 👶🏼 Brazilian;</b></p>
-  <p><b>• 🎒 I am an Information Systems student at the Federal Institute of Alagoas - IFAL;</b></p>
-  <p><b>• 👨‍💻 I am a FullStack developer;</b></p>
-  <p><b>• 👨‍🎓 I studied informatics focused on creating websites and graphic design, all focused on the business sector and digital marketing;</b></p>
-  <p><b>• 🌱 I'm currently focused on Java/TypeScript and frameworks like React and Django.</b></p>
+## 👨‍💻 About Me
+🎓 Information Systems student at [IFAL](https://www.ifal.edu.br/)  
+💻 FullStack Developer (Java | TypeScript | React | Django)  
+🌱 Currently learning and building projects with **modern web & mobile frameworks**  
+🎨 Background in **graphic design** and **digital marketing**
 
+---
+
+## 📊 GitHub Stats
 <div align="center">
-  
-  <a href="https://github.com/CayoHenrique250">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CayoHenrique250&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoHenrique250&layout=compact&langs_count=7&theme=tokyonight"/>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CayoHenrique250&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayoHenrique250&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-##
+---
 
-<h2>Study/Studied: </h2>
+## 🛠️ Tech Stack
 
-<div>
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-  <img align="right" alt="gif" height="200px" style="border-radius:50px;" src="hacking.gif">
+**Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Design & Media**  
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-300?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📬 Contact
+<div align="center">
+  <a href="https://instagram.com/cayo_henrique_250"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://contate.me/cayohenrique"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:chsf2@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<div style="display: inline_block;"><br><br><br>
-  
-  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+---
 
-  <img style="margin-left:-10px;" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  
-  <img alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
-  <img alt="Premiere" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-          
-  <img alt="Illustrator" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
-          
-  <img alt="Muse" height="40" width="40" src="Muse.png">
-  
-  <img alt="Photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
-
-  <img alt="Animate" height="40" width="40" src="Animate.png">
-  
-  <img alt="Flutter" height="40" width="40" src="https://www.svgrepo.com/show/353751/flutter.svg">
-  
-  <img alt="Dart" height="40" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/dart-programming-language-icon.png">
-
-  <img alt="Canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-    
-  <br><br><br><br>
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/CayoHenrique250/CayoHenrique250/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-##
+---
 
-<h2>contact me:</h2>
-
-<div>
-
-  <img align="right" alt="gif" height="150px" style="border-radius:50px;" src="telefone.gif">
-
-</div>
-
-<div> 
-
-  <a href="https://instagram.com/cayo_henrique_250" target="_blank"><img style="margin-left:-10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://contate.me/cayohenrique" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-  <a href="mailto:chsf2@aluno.ifal.edu.br?subject=Hello%2C%20i'm%20from%20GitHub!&body=I'm..." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/CayoHenrique250/CayoHenrique250/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer)
