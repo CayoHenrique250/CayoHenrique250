@@ -3,10 +3,10 @@
 ### <h3>Be Welcome!</h3>
 
   <p><b>• 👶🏼 Brazilian;</b></p>
-  <p><b>• 🎒 I am a student at the Federal Institute of Alagoas - IFAL;</b></p>
-  <p><b>• 👨‍💻 I appreciate and study programming languages, markup and stylization;</b></p>
+  <p><b>• 🎒 I am an Information Systems student at the Federal Institute of Alagoas - IFAL;</b></p>
+  <p><b>• 👨‍💻 I am a FullStack developer;</b></p>
   <p><b>• 👨‍🎓 I studied informatics focused on creating websites and graphic design, all focused on the business sector and digital marketing;</b></p>
-  <p><b>• 🌱 I’m currently learning JavaScript, flutter and dart.</b></p>
+  <p><b>• 🌱 I'm currently focused on Java/TypeScript and frameworks like React and Django.</b></p>
 
 <div align="center">
   
